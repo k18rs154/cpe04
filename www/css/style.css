@@ -71,7 +71,8 @@
     }
 
     button{
-      color:blue
+      color:blue;
+      font-style: italic;
     }
 
 
