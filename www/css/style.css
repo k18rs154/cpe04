@@ -47,13 +47,13 @@
     #btnA {
         font-size: 20px;
         position:absolute; top:380px; left:1%; width:35%; height:60px; 
-        background-color: yellow;
+        background-color: skyblue;
         color: green;
     }
     
     #btnB {
         font-size: 20px;
-        position:absolute; top:380px; left:36%; width:35%; height:60px;  background-color: yellow;
+        position:absolute; top:380px; left:36%; width:35%; height:60px;  background-color: skyblue;
         color: green;
     }
 
@@ -76,7 +76,7 @@
     input[type=number] {text-align: right;}
 
     body{
-      background:skyblue;
+      background:rgb(177, 230, 54);
     }
 
     button{
